@@ -33,7 +33,7 @@ This script automatically finds and replaces all `python3` references with `pyth
 ### Option 2: Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/hookify-windows-fix.git
+git clone https://github.com/Muminur/hookify-windows-fix.git
 cd hookify-windows-fix
 ```
 
